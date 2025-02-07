@@ -51,16 +51,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ChampGupta/ChampGupta/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <img src="https://raw.githubusercontent.com/ChampGupta/ChampGupta/output/github-snake.svg" 
-     alt="GitHub Snake Animation"
-     data-dark-src="https://raw.githubusercontent.com/ChampGupta/ChampGupta/output/github-snake-dark.svg"
-     width="100%" />
-</picture>
