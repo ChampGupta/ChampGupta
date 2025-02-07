@@ -59,12 +59,8 @@
 ###
 
 <picture>
-  if(media="(prefers-color-scheme: dark)"){
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChampGupta/ChampGupta/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ChampGupta/ChampGupta/output/github-snake.svg" />
-  }
-  else{
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChampGupta/ChampGupta/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ChampGupta/ChampGupta/output/github-snake.svg" />
-  }
+  <img src="https://raw.githubusercontent.com/ChampGupta/ChampGupta/output/github-snake.svg" 
+     alt="GitHub Snake Animation"
+     data-dark-src="https://raw.githubusercontent.com/ChampGupta/ChampGupta/output/github-snake-dark.svg"
+     width="100%" />
 </picture>
