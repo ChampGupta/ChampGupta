@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Abhinav Gupta and I'm a Full Stack Developer, from India
+<h3>Hi 👋! My name is Abhinav Gupta and I'm a Full Stack Developer, from India</h3>
 
 
 ## 🌐 Socials:
