@@ -15,13 +15,13 @@ Hi 👋! My name is Abhinav Gupta and I'm a Full Stack Developer, from India
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChampGupta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChampGupta&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChampGupta&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="right" height="160" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
